@@ -23,4 +23,4 @@ EXAMPLE pip install pandas numpy matplotlib seaborn scikit-learn
 **4 Explore the clustering results and insights obtained from the visualizations.**
 
 # Data
-[Download Dataset](): Contains information on 15 attributes for 1453 customers.
+[Download Dataset](https://drive.google.com/file/d/1kqQBEnw0q46Nq2otFMam3qAPynoJTiDH/view?usp=sharing): Contains information on 15 attributes for 1453 customers.
